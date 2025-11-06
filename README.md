@@ -1,4 +1,4 @@
-# 🇫🇮 Finnish Learning Notebook — README.md
+# 🇫🇮 Finnish Learning Notebook
 
 Welcome to my **Finnish Learning Notebook**! 📚✨
 This Jupyter notebook collects some of what I've been studying while learning Finnish — it's still a work in progress — including vocabulary, grammar notes, proverbs, and a fun interactive game.
