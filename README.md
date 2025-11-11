@@ -33,13 +33,16 @@ This notebook includes a **custom-made quiz game** to help practice vocabulary a
 * First, the user chooses **how many rounds** they want to play.
 * Each round contains **10 questions**.
 * Questions can ask for either a **Finnish word/proverb** or an **English word/proverb**.
-* If the user answers incorrectly 4 times:
+* If the user answers incorrectly:
 
-  * The game gives **3 extra attempts**.
-  * In these attempts, the game either:
+  * The game reveals **three letters** of the correct answer.
+  * If the user still answers incorrectly, the game gives it **6 extra attempts**.
 
-    * Provides **multiple choice (4 options)**, or
-    * Reveals **three letters** of the correct answer.
+    * After the first **3 extra attempts**, the game:
+
+      * Provides a **multiple choice list (4 options)** of the possible answers
+
+  * If the user answers incorrectly **7 times** the game continues to the next question.
 
 ### 🏆 Scoring System
 
