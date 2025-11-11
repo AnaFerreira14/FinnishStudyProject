@@ -36,13 +36,13 @@ This notebook includes a **custom-made quiz game** to help practice vocabulary a
 * If the user answers incorrectly:
 
   * The game reveals **three letters** of the correct answer.
-  * If the user still answers incorrectly, the game gives it **6 extra attempts**.
+  * If the user still answers incorrectly, the game gives them **6 extra attempts**.
 
     * After the first **3 extra attempts**, the game:
 
       * Provides a **multiple choice list (4 options)** of the possible answers
 
-  * If the user answers incorrectly **7 times** the game continues to the next question.
+  * If the user answers incorrectly **7 times**, the game continues to the next question.
 
 ### 🏆 Scoring System
 
